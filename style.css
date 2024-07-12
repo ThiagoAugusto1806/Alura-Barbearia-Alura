@@ -247,6 +247,13 @@ td, th{
         align-content: center;
         margin: 20px 20px  0 ;
     }
+    .produtos{
+        width: auto;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
     .produtos li{
         display: block;
         width: 350px;
@@ -254,7 +261,13 @@ td, th{
         margin-left: 20px;
     }
     form, table{
-        margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        align-items: center;
+    }
+    label{
+        width: 45%;
     }
     .Enviar{
         width: 95%;
@@ -280,6 +293,13 @@ td, th{
         width: 95%;
         margin-left: 10px;
     }
+    .produtos{
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
     .produtos li{
         display: block;
         width: 700px;
