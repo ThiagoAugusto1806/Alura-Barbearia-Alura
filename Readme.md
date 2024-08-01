@@ -24,12 +24,16 @@ Este projeto parece ser um site para uma barbearia, construído com HTML e CSS, 
 
 ### Pagina Inicial
 ## Screenshots
-![Pagina Inicial](https://imgur.com/cxEdDV1)
+<img src="https://imgur.com/cxEdDV1" alt="Pagina Inicial">
+
 ### Pagina Inicial - Sobre
-![Pagina Inicial - Sobre](https://imgur.com/rqHkOv7)
+<img src="https://imgur.com/rqHkOv7" alt="Pagina Inicial - Sobre">
+
 ### Pagina Inicial - Beneficios
-![Pagina Inicial - Beneficios](https://imgur.com/NZqhu29)
+<img src="https://imgur.com/NZqhu29" alt="Pagina Inicial - Beneficios">
+
 ### Pagina de Produtos
-![Pagina de Produtos](https://imgur.com/prbilSX)
+<img src="https://imgur.com/prbilSX" alt="Pagina de Produtos">
+
 ### Formulario para Contato
-![Pagina com formulario de contato](https://imgur.com/w7u8raV)
+<img src="https://imgur.com/w7u8raV" alt="Pagina com formulario de contato">
