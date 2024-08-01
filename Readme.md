@@ -22,8 +22,9 @@ Este projeto parece ser um site para uma barbearia, construído com HTML e CSS, 
 - `style-home.css`: Estilos específicos para a página inicial.
 - `style.css`: Estilos gerais do site.
 
-### Pagina Inicial
 ## Screenshots
+
+### Pagina Inicial
 <img src="https://imgur.com/cxEdDV1.png" alt="Pagina Inicial">
 
 ### Pagina Inicial - Sobre
