@@ -21,16 +21,11 @@ Este projeto é um site para uma barbearia, construído com HTML e CSS, com um f
 - `reset.css`: Define estilos de reset para garantir uma aparência consistente em diferentes navegadores.
 - `style.css`: Estilos gerais do site.
 
-<<<<<<< HEAD
-### Pagina Inicial
 
 ## Screenshots
 
-=======
-## Screenshots
-
 ### Pagina Inicial
->>>>>>> 55a2f6952ea5379abb5a55cdba4a6e093d64476e
+
 <img src="https://imgur.com/cxEdDV1.png" alt="Pagina Inicial">
 
 ### Pagina Inicial - Sobre
